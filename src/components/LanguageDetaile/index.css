@@ -1,0 +1,28 @@
+.detailed-language-cont {
+  display: flex;
+}
+
+.detailed-language-image {
+  width: 25vw;
+}
+
+.detailed-language-right {
+  padding: 16px;
+}
+
+.detailed-language-name {
+  color: black;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.detailed-language-desc {
+  color: #475569;
+  font-size: 16px;
+  font-weight: 500;
+  height: 2px;
+}
+
+.detailed-cont {
+  padding: 32px;
+}

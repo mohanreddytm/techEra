@@ -1,0 +1,40 @@
+.list-of-languages-cont {
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lower-cont {
+  padding: 32px;
+}
+
+.main-heading {
+  color: #1e293b;
+  font-size: 32px;
+  font-weight: 600;
+  margin: 0px;
+  margin-bottom: 18px;
+}
+
+.every-language {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 24px;
+}
+
+.language-image {
+  width: 4vw;
+  margin-right: 8px;
+}
+
+.language-name {
+  color: #1e293b;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.link-normal {
+  text-decoration: none;
+}
